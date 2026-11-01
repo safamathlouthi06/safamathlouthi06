@@ -1,65 +1,109 @@
-<h1 align="center">Salut 👋, moi c’est Safa Mathlouthi</h1>
+# 👋 Salut, moi c’est Safa Mathlouthi !
+
+<h3 align="center">Software Engineer | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  💻 Développeuse Full Stack passionnée<br>
-  🚀 Future experte Angular &amp; IA<br>
-  🌍 Tunisie
+  🎓 Software Engineering Graduate from TEK-UP University<br>
+  💻 Passionate about Full Stack Development & Artificial Intelligence<br>
+  🤖 Interested in RAG, LLMs and Intelligent Applications<br>
+  🌍 Based in Tunisia
 </p>
 
 ---
 
-<h3 align="center">📫 Me contacter</h3>
+## 🚀 About Me
 
-<p align="center">
-  <a href="mailto:TON-EMAIL@exemple.com">Email</a> •
-  <a href="https://www.linkedin.com/in/TON-PROFIL/">LinkedIn</a> •
-  <a href="https://github.com/TON-PSEUDO">GitHub</a>
+I'm a Software Engineering graduate from **TEK-UP University**, passionate about building modern web applications and integrating Artificial Intelligence into real-world solutions.
+
+My main interests include:
+- Full Stack Web Development
+- Artificial Intelligence & Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Intelligent Chatbots and AI-powered applications
+- Software Engineering and scalable solutions
+
+I'm always eager to learn new technologies, solve problems and turn ideas into useful digital products.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,swift" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs" />
+</p>
+
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase" />
+</p>
+
+### 🤖 Artificial Intelligence
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Azure OpenAI
+- Sentence Transformers
+- Vector Databases & Semantic Search
+- Intelligent Chatbots
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,postman,vscode,figma" />
 </p>
 
 ---
 
-<h3 align="center">⚡ Tech Stack</h3>
+## 🌟 Featured Project
+
+### 🤖 ChatBot Factory — PFE Project
+
+A multi-tenant SaaS platform that allows companies to create, configure, test and deploy intelligent chatbots based on their own knowledge bases.
+
+**Technologies:**
+- Backend: Python, FastAPI
+- Frontend: Next.js, TypeScript, Tailwind CSS
+- Database: Supabase, PostgreSQL, pgvector
+- AI: RAG, Azure OpenAI, Sentence Transformers
+- Security: JWT Authentication, Role-Based Access Control
+- Deployment: Microsoft Azure
+- Testing: Pytest
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".NET" title=".NET" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
-
-  <!-- Bases de données -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-
-  <!-- Outils -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40"/>
+  <a href="mailto:safamathlouthi06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/safa-mathlouthi-1a5591267">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/safamathlouthi06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">🔥 À propos de moi</h3>
+## ✨ A Little About Me
 
-<p align="center">
-  J’aime construire des applications modernes, élégantes et intelligentes.<br>
-  Entre <b>Angular</b>, <b>.NET</b> et l’univers de l’IA 🤖, je façonne mon chemin<br>
-  vers des projets qui ont du sens.
-</p>
+I believe in continuous learning, clean code and building technology that makes a difference.
 
----
+☕ Coffee + Code + Creativity = My favorite combination!
 
-<h3 align="center">✨ Fun Fact</h3>
-
-<p align="center">
-  Je transforme le café ☕ en code propre (la plupart du temps 😄)
 </p>
