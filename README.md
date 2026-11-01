@@ -88,13 +88,13 @@ A multi-tenant SaaS platform that allows companies to create, configure, test an
 
 <p align="center">
   <a href="mailto:safamathlouthi06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-safamathlouthi06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/safa-mathlouthi-1a5591267">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/safa-mathlouthi-1a5591267/">
+    <img src="https://img.shields.io/badge/LinkedIn-Safa%20Mathlouthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/safamathlouthi06">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-safamathlouthi06-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
